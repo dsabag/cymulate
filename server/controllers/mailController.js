@@ -10,8 +10,7 @@ let url;
 
 const client = SIB.ApiClient.instance;
 const apiKey = client.authentications["api-key"];
-apiKey.apiKey =
-  "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";
+apiKey.apiKey = <insert key here>
 
 export const sendEmail = (req, res) => {
   const tranEmailApi = new SIB.TransactionalEmailsApi();
