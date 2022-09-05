@@ -8,6 +8,15 @@
 4. npm i
 5. npm start
 
+important!!
+
+sendInBlue sdk wont let me keep api tokens in github so im posting it here...
+
+please update the "apiKey.apiKey" value in line 13 on server/controllers/mailController.js 
+
+the key is:
+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
+
 
 this took an overall 3:20 
 
